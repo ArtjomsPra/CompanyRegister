@@ -1,0 +1,17 @@
+{
+    "name": "artjo/company-register",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ArtjomsPra",
+            "email": "artjoms.pralics@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
